@@ -4,8 +4,8 @@ Chiedza Ikpeh - Cloud Architect & Tech Enthusiast
 Hello! I'm Chiedza, a former teacher turned passionate tech enthusiast, currently advocating for women in tech. After an enriching journey in education, my excitement for technology has led me to a new path where I aim to explore, innovate, and contribute to the tech world, with a keen interest in cloud architecture and data management.
 
 ## 🌐 Connect with Me
-LinkedIn: Chiedza Ikpeh
-Email: chiedzaikpeh@raraeducation.org
+- LinkedIn: Chiedza Ikpeh
+- Email: chiedzaikpeh@raraeducation.org
 
 ## 💼 Professional Summary
 Transitioning from education to tech, I bring a unique blend of pedagogical skills and advanced cloud engineering knowledge. Proficient in designing, building, and managing scalable cloud-based infrastructures on platforms like Microsoft Azure and AWS, I'm eager to drive innovation and efficiency in the tech landscape.
