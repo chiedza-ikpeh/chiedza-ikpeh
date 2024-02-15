@@ -6,7 +6,7 @@ Hello! I'm Chiedza, a former teacher turned passionate tech enthusiast, currentl
 ## 🌐 Connect with Me
 - LinkedIn: [Chiedza Ikpeh](https://www.linkedin.com/in/chiedza-ikpeh-9b1402bb/)
 - Email: chiedzaikpeh@raraeducation.org
-- Instgram:
+- Instagram:
 - Twitter:
 
 ## 💼 Professional Summary
