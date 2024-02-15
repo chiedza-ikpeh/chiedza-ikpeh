@@ -1,7 +1,8 @@
 # Candidate Profile
 
 - Name: Chiedza Ikpeh 
-- Desired Role: Junior Cloud Architect Phone: 07906641894  
+- Desired Role: Junior Cloud Architect
+- Phone: 07906641894  
 - Email:  Chiedzaikpeh@raraeducation.org
 - LinkedIn: https://www.linkedin.com/in/chiedza-ikpeh-9b1402bb/ 
 
