@@ -1,4 +1,6 @@
-## Chiedza Ikpeh - Cloud Architect & Tech Enthusiast
+## Short Bio
+Chiedza Ikpeh - Cloud Architect & Tech Enthusiast
+
 Hello! I'm Chiedza, a former teacher turned passionate tech enthusiast, currently advocating for women in tech. After an enriching journey in education, my excitement for technology has led me to a new path where I aim to explore, innovate, and contribute to the tech world, with a keen interest in cloud architecture and data management.
 
 ## 🌐 Connect with Me
