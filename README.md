@@ -10,7 +10,7 @@ As an emerging professional transitioning into the technology sector, I am keen 
  
 ## PROJECTS 
 _______________________________________________________________________________________________________________ 
-### Azure Database Migration 
+### ✅ Azure Database Migration 
 01/2024 - 02/2024 
 
 - Migrated a production environment SQL Server database containing 5 tables to Azure SQL Database, 
@@ -22,7 +22,7 @@ from an initial 99.5% to >99.99%.
 - Integrated Microsoft Entra ID authentication with Azure SQL Database to create two identity 
 management groups: administrators and read-only clients. 
  
-### Multinational Data Centralisation Pipeline 
+### ✅ Multinational Data Centralisation Pipeline 
 11/2023 - 12/2023 
  
 - Developed a system that extracts sales data from 5 data sources: PDF documents, AWS RDS 
@@ -37,7 +37,7 @@ sales, yearly revenue, and regions with the most sales.
 ## EDUCATION 
 _______________________________________________________________________________________________________________ 
  
-### University of Chester 
+### ✅ University of Chester 
 Doctor of Philosophy - 10/2020 – 10/2024 
  
 - Performed qualitative research scrutinizing 20 Black women teachers' career trajectories. 
@@ -45,7 +45,7 @@ Doctor of Philosophy - 10/2020 – 10/2024
 - Conducted qualitative analysis using over 20-hours of collated data identifying systemic trends. 
 - Presented research outcomes to academic peers and the public nationally and internationally. 
 
-### Ai Core
+### ✅ Ai Core
 Cloud Engineering Bootcamp - 10/2023 – 03/2024 
  
 - Completed intensive training in Cloud Engineering with Ai Core. 
@@ -55,16 +55,15 @@ Cloud Engineering Bootcamp - 10/2023 – 03/2024
 
 ## SKILLS & OTHER 
 _______________________________________________________________________________________________________________ 
-**Tools:** Python, SQL (PostgreSQL & SQL Server), Azure, Azure Data Studio, SQL Server Management Studio, AWS, 
+- Tools: Python, SQL (PostgreSQL & SQL Server), Azure, Azure Data Studio, SQL Server Management Studio, AWS, 
 git, GitHub
-
-**Certifications:** Microsoft Azure Fundamentals AZ-900 (in preparation). 
+- Certifications: Microsoft Azure Fundamentals AZ-900 (in preparation). 
  
 ## WORK EXPERIENCE 
 _______________________________________________________________________________________________________________ 
  
 
-### Board Trustee Director 
+### ✅ Board Trustee Director 
 03/2023 – 03/2027 
 Abbey Multi Academy Trust 
  
@@ -73,7 +72,7 @@ Abbey Multi Academy Trust
 - Guided strategic multi-million-pound budget decisions to support the educational mission of the district. 
 - Ensured and guaranteed equitable education by advocating for strategic initiatives across 8 institutes. 
  
-### Director and Diversity and Inclusion Consultant  
+### ✅ Director and Diversity and Inclusion Consultant  
 06/2020 – 06/2027 
 RARA Education Project CIC 
  
@@ -83,7 +82,7 @@ RARA Education Project CIC
 - Developed quarterly impact reports to evaluate and demonstrate the added business value of programs. 
  
  
-### Teacher of English and Psychology  
+### ✅ Teacher of English and Psychology  
 09/2020 – 09/2022 
 Queens Park High School 
  
