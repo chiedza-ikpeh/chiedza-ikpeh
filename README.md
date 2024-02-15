@@ -82,7 +82,7 @@ RARA Education Project CIC
 - Developed quarterly impact reports to evaluate and demonstrate the added business value of programs. 
  
  
-### Teacher of English and Psychology  
+### Teacher of English and Psychology  
 09/2020 – 09/2022 
 Queens Park High School 
  
